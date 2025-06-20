@@ -1,77 +1,70 @@
-<!---
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=280&section=header&text=Hi%20there%20👋&fontSize=90)
---->
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=280&section=header&text=Hi%20there%20%F0%9F%91%8B&fontSize=90)
 
+---
 
+<h2 align="center"> 👨‍💻 Current Roles </h2>
 
- 
-<h1>About Me 📌</h1>
+- 👨‍🏫 Teaching and Research Assistant at [Birzeit University](https://www.linkedin.com/school/birzeit-university/posts/?feedView=all)
+- 💼 Software Engineer at [JAFFAL Group](https://www.linkedin.com/company/al-jaffal-group/)
+- 📫 Reach me at: **tariqodeh2001@gmail.com**
+- 🔗 [See my resume and experience on LinkedIn](https://www.linkedin.com/in/tariqodeh/)
 
-- 👋 Hi, I’m Tariq Odeh
-- 👨‍💻 I’m Interested in AI & ML Fields and Competitive Programming 
-- 🎓 Computer System Engineering  Student @ Birzeit University
-- 📫 How to Reach Me tariqodeh2001@gmail.com
-
-
-<!---
-Tariq0Odeh/Tariq0Odeh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-<br /> 
+---
 
 <h2 align="center"> 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32"> </h2>
- 
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![HTML5 badge](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3 badge](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)    ![Git badge](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white) ![Github badge](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white) ![Linux badge](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+ <p align="center">
+  <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" />
+  <img src="https://cdn.worldvectorlogo.com/logos/django.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" />
+  <img src="https://api.iconify.design/logos-hugo.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" />
+</p>
 
+---
 
-
-<br />
 <h2 align="center"> Quick Overview 📈</h2>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Tariq0odeh&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt = "Tariq0Odeh's Languages/Frameworks" width = 400 />
 
- *** 
- 
- <details align="center">
-<summary><h2>My GitHub Stats <img src='https://media1.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif?cid=ecf05e47x2g034i9pzwtzzsd3xgg2w9nr94t4tflbbgo3008&rid=giphy.gif' width='32'></h2></summary>
-<table>
-  <thead>
- </p>
-<center>
+  <p align = "center">
+  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tariq0odeh&theme=monokai" alt = "Tariq0Odeh's profile Summary" width = 750 >
+  </center>
+</p>
+
+---
+ <h2 align="center"> GitHub Stats 📈</h2>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Tariq0odeh&count_private=true&theme=dark&hide_border=true" alt = "Tariq0Odeh's Contribution" width = 400 >
   <img src = "https://github-readme-streak-stats.herokuapp.com?user=Tariq0odeh&theme=dark&hide_border=true" alt = "Tariq0Odeh's Rating" width = 400 >
   </center>
 </p>
-<p align = "center">
-  <img src = "https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Tariq0odeh&theme=monokai" alt = "Tariq0Odeh's profile Summary" width = 750 >
-  </center>
-</p>
-<br />
-</table>
-</details>
- 
- *** 
- 
-<h2 align="center">Visitors 👀</h2>
-<div align="center" >
-  <img src="https://profile-counter.glitch.me/eyab0/count.svg"></img>
-</div>
 
-<br /><br />
+---
+
 <h2 align="center">Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"></h2> 
 <p align="center">
-  <a href = "mailto:tariqodeh2001@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
-  <a href = "https://www.linkedin.com/in/tariq-odeh-0b4447179"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"     height = 30></a>
-  <a href = "https://leetcode.com/tariqodeh2001"><img src = "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" height = 30></a>
-  
- 
- 
+  <a href="https://linkedin.com/in/tariqodeh"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36"/></a>
+  <a href="https://fb.com/tariq0odeh"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="36"/></a>
+  <a href="https://instagram.com/tariqodeh_"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" width="36"/></a>
+  <a href="https://www.youtube.com/c/tariq0odeh"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" width="36"/></a>
+  <a href="https://www.hackerrank.com/tariqodeh2001"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" width="36"/></a>
 </p>
-<br />
-<h6 align="center" ><i>⚡If You Take The Design Please Star The Repo ⭐</i></h6>
-<br />
+
+---
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer)
