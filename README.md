@@ -49,7 +49,6 @@
  <h2 align="center"> GitHub Stats 📈</h2>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Tariq0odeh&count_private=true&theme=dark&hide_border=true" alt = "Tariq0Odeh's Contribution" width = 400 >
-  <img src = "https://github-readme-streak-stats.herokuapp.com?user=Tariq0odeh&theme=dark&hide_border=true" alt = "Tariq0Odeh's Rating" width = 400 >
   </center>
 </p>
 
