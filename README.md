@@ -11,7 +11,7 @@
 
 ---
 
-<h2 align="center"> 💻Tech Stack <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32"> </h2>
+<h2 align="center"> 💻Tech Stack </h2>
  <p align="center">
   <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="40" />
@@ -36,7 +36,7 @@
 
 ---
 
-<h2 align="center"> Quick Overview 📈</h2>
+<h2 align="center"> 📈 Quick Overview </h2>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=Tariq0odeh&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&hide_border=true&bg_color=151515&title_color=FB8C00&text_color=fff&icon_color=fff" alt = "Tariq0Odeh's Languages/Frameworks" width = 400 />
 
@@ -46,7 +46,7 @@
 </p>
 
 ---
- <h2 align="center"> GitHub Stats 📈</h2>
+ <h2 align="center"> 📊 GitHub Stats </h2>
 <p align = "center">
   <img src = "https://github-readme-stats.vercel.app/api?username=Tariq0odeh&count_private=true&theme=dark&hide_border=true" alt = "Tariq0Odeh's Contribution" width = 400 >
   </center>
@@ -54,7 +54,7 @@
 
 ---
 
-<h2 align="center">Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"></h2> 
+<h2 align="center"> Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100"> </h2> 
 <p align="center">
   <a href="https://linkedin.com/in/tariqodeh"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="36"/></a>
   <a href="https://fb.com/tariq0odeh"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" width="36"/></a>
