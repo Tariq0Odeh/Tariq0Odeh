@@ -48,14 +48,6 @@
 </p>
 
 ---
- <h3 align="center"> 📊 GitHub Stats </h3>
- <br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=Tariq0odeh&count_private=true&theme=dark&hide_border=true" alt = "Tariq0Odeh's Contribution" width = 400 >
-  </center>
-</p>
-
----
 
 <h3 align="center"> 🤝 Let's Connect </h3> 
 <br>
